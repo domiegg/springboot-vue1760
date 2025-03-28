@@ -1,0 +1,249 @@
+{
+    "easycom": {
+    	"^z-(.*)": "@zebra-ui/swiper/components/z-$1/z-$1.vue"
+    },
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	}, {
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	}, {
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+	}, {
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	}, {
+		"path": "pages/user-info/user-info",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+	, {
+		"path": "pages/news-detail/news-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "资讯详情"
+		}
+	}
+	,{
+		"path": "pages/guanzhong/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/guanzhong/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/guanzhong/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/caipan/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/caipan/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/caipan/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/bisaixuanshou/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/bisaixuanshou/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/bisaixuanshou/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/bisaisaizhi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/bisaisaizhi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/bisaisaizhi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/bisaileixing/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/bisaileixing/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/bisaileixing/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/saishixinxi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/saishixinxi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/saishixinxi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/paimingjifen/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/paimingjifen/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/paimingjifen/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/news/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	, {
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#FF944D",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "桥牌计分系统",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#BBBBBB",
+		"selectedColor": "#FF944D",
+		"borderStyle": "white",
+		"backgroundColor": "#FFFFFF",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			
+
+
+			,{
+			 	"pagePath": "pages/news/list",
+				"iconPath": "static/tabs/news.png",
+			 	"selectedIconPath": "static/tabs/news_act.png",
+				"text": "公告信息"
+			}
+
+
+
+
+
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+}
